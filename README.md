@@ -2,7 +2,8 @@
 kommunicate.io 영화 완성
 -텔레그램에 구현
 
-아나콘다
+
+### 아나콘다
 pandas
 sentence-transformers
 sklearn   |      scikit-learn
@@ -33,7 +34,7 @@ sklearn   |      scikit-learn
 4/16
 심리상담 프로그램을 만들어서 구현(유사도)
 
-새로운 챗 만듦
+### 새로운 챗 만듦
 import streamlit as st
 from streamlit_chat import message
 import pandas as pd
